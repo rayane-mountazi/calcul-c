@@ -11,6 +11,6 @@ int main(void)
     scanf("%d", &b);
 
     printf("Somme = %d\n", a + b);
-
-    return 0;
+/*modification*/
+    return 1;
 }
